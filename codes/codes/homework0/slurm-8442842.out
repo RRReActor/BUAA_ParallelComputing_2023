@@ -1,0 +1,3 @@
+[mpiexec@node-013] mpiexec_get_parameters (../../../../../src/pm/i_hydra/mpiexec/mpiexec_params.c:1409): no executable specified
+[mpiexec@node-013] main (../../../../../src/pm/i_hydra/mpiexec/mpiexec.c:1745): error parsing parameters
+/var/spool/slurm/job8442842/slurm_script: line 14: -f: command not found
